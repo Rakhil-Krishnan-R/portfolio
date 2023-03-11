@@ -1,0 +1,73 @@
+Rakhil Krishnan R
+Full Stack Developer
+
+Bangalore, India 560090
+7406902550
+rakhilkrishnanr1998@gmail.com
+LinkedIn: www.linkedin.com/in/rakhil-krishnan-r-a55267176
+
+Technical Profile
+
+Python
+HTML
+JavaScript
+CSS
+Linux
+Git
+Bootstrap
+jQuery
+
+MongoDB
+Express
+Node.js
+GitHub
+React.js
+React Native
+Postman
+
+Competencies
+
+Application development
+
+HTML expertise
+
+Programming
+
+Web development projects
+
+Languages
+
+English
+
+Malayalam
+
+Tamil
+
+Professional Summary
+
+Software development professional with experience in developing and designing web applications using HTML, CSS, JavaScript, Node.js, and React. Adept at developing and deploying complex backend systems, web services and databases.
+
+Work History
+
+July 2021 - Current
+Freelancer - Bangalore, India
+Full Stack Web Developer
+
+Maintained complex technology infrastructure and collaborated with product team to implement new features and strategically plan for future products.
+Used Javascript, Mongodb and HTML to develop app-solutions.
+Developed efficient and maintainable software according to business objectives and needs of clients.
+Liaised with rebranding experts to optimize websites for increased conversion rates.
+
+Education
+
+January 2021 - Current
+The Oxford College Of Engineering Bangalore
+Master of Computer Applications Computer Science And Programming
+
+July 2016 - September 2019
+MN Degree College Bangalore
+Bachelor of Computer Applications Computer Science And Programming
+
+Certifications
+
+Full Stack Development
